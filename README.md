@@ -1,3 +1,5 @@
+extracted from oh-my-zsh
+
 # Systemd plugin
 
 The systemd plugin provides many useful aliases for systemd.
